@@ -4,10 +4,10 @@ My name is Eben Ariesto Purnama Jati and I am an undergraduate geophysics studen
 
 <br>
 
-🔭 I’m currently working on expanding my knowledge of geoscience and computation.
-🌱 I’m currently learning Python leading into more about data analytics and visualizations.
-💬 Ask me about my (forgotten) experience in other programming languages!
-⚡ Fun fact: I like to sing and play video games in my spare time.
+🔭 I’m currently working on expanding my knowledge of geoscience and computation.<br>
+🌱 I’m currently learning Python leading into more about data analytics and visualizations.<br>
+💬 Ask me about my (forgotten) experience in other programming languages!<br>
+⚡ Fun fact: I like to sing and play video games in my spare time.<br>
 
 <br>
 
