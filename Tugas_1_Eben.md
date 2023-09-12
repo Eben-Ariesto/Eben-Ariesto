@@ -2,12 +2,16 @@
 
 <h2 align="center">Yang sudah dipelajari</h2>
 
-- Cara download, instalasi, dan konfigurasi Git
-- Sign up/Log in Github dengan akun UGM
-- 
+- Cara download, instalasi, dan konfigurasi Git<br>
+- Sign up/Log in Github dengan akun UGM<br>
+- Membuat remote repository Github dan dihubungkan dengan repository local menggunakan Git<br>
+- Menggunakan commands seperti git add, git commit, dan git push untuk mengirim file dari local repository ke remote repository<br>
+- Membuat dan menampilkan README profile<br>
 
 <h2 align="center">Yang masih bingung</h2>
 
+- Command git rebase dan git reflog<br>
+- Syntax dari bahasa Python dan HTML yang lebih advanced untuk membuat file python atau markdown yang lebih kompleks<br>
 
 
 <h2 align="center">Profile README Evidence</h2>
@@ -20,7 +24,7 @@
     Membuat copy dari repository Git yang sudah ada.
     <img src="https://github.com/Eben-Ariesto/Dokumentasi/blob/main/GitCloneBefore.png">
     (Sebelum git clone)
-    <br>
+    <hr>
     <img src="https://github.com/Eben-Ariesto/Dokumentasi/blob/main/GitCloneAfter.png">
     (Setelah git clone)
 
@@ -29,10 +33,12 @@
     <img src="https://github.com/Eben-Ariesto/Dokumentasi/blob/main/GitPull.png">
 
 3. Fetch<br>
-
+    Mendownload branch dari remote repository tetapi tidak langsung mengintegrasi ke local repository.
+    <img src="https://github.com/Eben-Ariesto/Dokumentasi/blob/main/GitFetch.png">
 
 4. Merge<br>
-
+    Mengintegrasi perubahan dari divergent branch atau mendownload perubahan dari command fetch.
+    <img src="https://github.com/Eben-Ariesto/Dokumentasi/blob/main/GitMerge.png">
 
 5. Push<br>
     Memindah file dari local repository ke remote repository.
@@ -42,7 +48,7 @@
     Mengambil perubahan yang sudah di stage ke project history.
     <img src="https://github.com/Eben-Ariesto/Dokumentasi/blob/main/GitCommitProcess.png">
     (Sebelum git commit)
-    <br>
+    <hr>
     <img src="https://github.com/Eben-Ariesto/Dokumentasi/blob/main/GitCommitDone.png">
     (Setelah git commit)
 
