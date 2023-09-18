@@ -13,7 +13,6 @@
 - Command git rebase dan git reflog<br>
 - Syntax dari bahasa Python dan HTML yang lebih advanced untuk membuat file python atau markdown yang lebih kompleks<br>
 
-
 <h2 align="center">Profile README Evidence</h2>
 <img src="https://github.com/Eben-Ariesto/Dokumentasi/blob/main/Profile.png">
 <br>
